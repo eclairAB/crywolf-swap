@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+#swap-container {
+
+    .c-AsWAM-gHxeqD-cv {
+        letter-spacing: 1.5px;
+        font-weight: 400;
+        font-family: "Russo One";
+
+        -webkit-animation: colorChange 10s ease infinite;
+        animation: colorChange 10s ease infinite;
+        background: linear-gradient(90.04deg, #c82ef8 0.03%, #cd29f9 4.24%, #7477ed 10.38%, #1fc0e2 19.76%, #bf36f7 25.01%, #bf35f7 28.74%, #7a71ee 37.73%, #1ec1e2 48.47%, #cb2bf9 56.85%, #cb2bf9 60.8%, #6f7bed 69.81%, #11cde0 78.97%, #cd2bf9 83.75%, #cd2af9 88.91%, #598eea 95.47%, #09d4df 99.98%);
+        -webkit-background-clip: text;
+        background-clip: text;
+        background-repeat: repeat;
+        background-size: 400% 400%;
+        color: transparent;
+    }
+    .c-AsWAM-lcKBYH-cv,
+    .c-haNKQR {
+        font-family: "Russo One";
+    }
+    
+    .c-bnoZuE,
+    .c-gjdJOs {
+        .c-AsWAM-ktirHX-cv {
+            font-family: "Russo One";
+        }
+    }
+
+    & * {
+        
+        font-family: "DM Sans";
+
+    }
+}
