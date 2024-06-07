@@ -1,6 +1,6 @@
 import Image from "next/image";
 import styles from "./page.module.css";
-import Swap from "./modules/swap.tsx";
+import Swap from "./modules/swap";
 
 
 export default function Home() {
